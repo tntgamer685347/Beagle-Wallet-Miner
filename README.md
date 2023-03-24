@@ -11,8 +11,8 @@ Random Name Generator
 this is the free version and its slow if you want a faster one contact PythonDev#5063
 
 # Config
-in the config file you can change the min_bal it means if the balance is not higher or the same it dont gets saved.
-you can also change log_bad_hits if you have it on false it only logs the wallets that have a balnce of higher than the min_bal is.
+if you want a config where you can toggle bad hit logging you need to contact PythonDev#5063 and ask for the middle version.
+There is a max version where you can change the min balance(min balance to be saved and shown).
 
 
 
